@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developer Web and Mobile
 - 🌱 I’m currently learning all about technology
 - 💞️ I’m looking to collaborate on GitHub
-see you wkwkw
+- see you wkwkw
 
 <!---
 riyanks/riyanks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
